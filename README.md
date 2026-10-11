@@ -12,6 +12,8 @@ This project solves a critical edge case in autonomous robotics: monitoring real
 
 ![Demo](assets/ROS2_mini-project.gif)
 
+**Youtube (https://youtu.be/Kg9H-koXbMk?si=aPhODEzcgTrejVWe)**
+
 ---
 
 ## 🚀 Key Features
