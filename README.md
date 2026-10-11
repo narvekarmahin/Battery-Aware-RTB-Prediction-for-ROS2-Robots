@@ -10,7 +10,7 @@ This project solves a critical edge case in autonomous robotics: monitoring real
 
 > *A complete end-to-end run showing real-time battery telemetry drain, threshold prediction at 20%, and automated action server dispatch.*
 
-https://github.com/user-attachments/assets/ROS2_mini-project.mp4
+![Demo](assets/ROS2_mini-project.gif)
 
 ---
 
